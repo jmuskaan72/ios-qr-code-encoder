@@ -2,18 +2,18 @@
   "images" : [
     {
       "orientation" : "portrait",
-      "idiom" : "iphone",
+      "idiom" : "APPLE",
       "extent" : "full-screen",
-      "minimum-system-version" : "7.0",
-      "scale" : "2x"
+      "minimum-system-version" : "8.0",
+      "scale" : "4x"
     },
     {
-      "orientation" : "portrait",
-      "idiom" : "iphone",
+      "orientation" : "landscape",
+      "idiom" : "Apple",
       "subtype" : "retina4",
       "extent" : "full-screen",
-      "minimum-system-version" : "7.0",
-      "scale" : "2x"
+      "minimum-system-version" : "8.0",
+      "scale" : "4x"
     }
   ],
   "info" : {
